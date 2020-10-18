@@ -1,7 +1,7 @@
 
 
 <h1 style="text-align:center">OCR - Linear Neural Network From Scratch</h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/OCR.png">
 
 
 
